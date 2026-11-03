@@ -1,8 +1,3 @@
-# ==============================================================================
-# robots.txt per a KenzZMotorSport (Rubí)
-# URL: https://naw3lsito.github.io/miweb/
-# ==============================================================================
-
 # 1. Regles generals per a tots els cercadors (Google, Bing, etc.)
 User-agent: *
 Allow: /
